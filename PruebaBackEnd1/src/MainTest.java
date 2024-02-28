@@ -17,7 +17,7 @@ class MainTest {
 		Odontologo odontologo3 = new Odontologo(003, "Eric", "Rodriguez");
 
 
-//LISTA DESDE LA BASE DE DATOS
+
 		OdontologoService servicioOdontologico = new OdontologoService();
 		servicioOdontologico.setOdontologoIDao(new OdontologoIDAOH2());
 		servicioOdontologico.guardar(odontologo1);
@@ -29,7 +29,7 @@ class MainTest {
 	}
 
 @Test
-	public void listaOdontologosMemoria(){
+	public void listadoOdontologosMemoria(){
 		Odontologo odontologo1 = new Odontologo(011, "John", "Pedro");
 		Odontologo odontologo2 = new Odontologo(022, "Maria", "Sanchez");
 		Odontologo odontologo3 = new Odontologo(033, "Eric", "Martinez");
@@ -37,7 +37,7 @@ class MainTest {
 		Odontologo odontologo5 = new Odontologo(005, "Lucille", "Perez");
 
 
-//LISTA DESDE LA BASE DE DATOS
+
 		OdontologoService servicioOdontologico = new OdontologoService();
 		servicioOdontologico.setOdontologoIDao(new OdontologoIDAOList());
 		servicioOdontologico.guardar(odontologo1);
