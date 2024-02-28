@@ -1,0 +1,38 @@
+[2024-02-27 22:49:14] [ WARN ] [OdontologoIDAOH2:36] Algo ha salido mal.. ⚠️ 
+[2024-02-27 22:49:14] [ WARN ] [OdontologoIDAOH2:36] Algo ha salido mal.. ⚠️ 
+[2024-02-27 22:49:14] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados0
+[2024-02-27 22:49:48] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=1, matricula=1, nombre='John', apellido='Pedro'}
+[2024-02-27 22:49:48] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=2, matricula=2, nombre='Maria', apellido='Sanchez'}
+[2024-02-27 22:49:48] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados2
+[2024-02-27 22:49:57] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=3, matricula=1, nombre='John', apellido='Pedro'}
+[2024-02-27 22:49:57] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=4, matricula=2, nombre='Maria', apellido='Sanchez'}
+[2024-02-27 22:49:57] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados4
+[2024-02-27 22:51:31] [ INFO ] [OdontologoIDAOH2:17] 👨‍⚕ Odontologo registrado: Odontologo{id=null, matricula=1, nombre='John', apellido='Pedro'}
+[2024-02-27 22:51:31] [ INFO ] [OdontologoIDAOH2:17] 👨‍⚕ Odontologo registrado: Odontologo{id=null, matricula=2, nombre='Maria', apellido='Sanchez'}
+[2024-02-27 22:51:31] [ INFO ] [OdontologoIDAOH2:23] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados2
+[2024-02-27 22:52:56] [ INFO ] [OdontologoIDAOH2:21] 👨‍⚕ Odontologo registrado: Odontologo{id=1, matricula=1, nombre='John', apellido='Pedro'}
+[2024-02-27 22:52:56] [ INFO ] [OdontologoIDAOH2:21] 👨‍⚕ Odontologo registrado: Odontologo{id=2, matricula=2, nombre='Maria', apellido='Sanchez'}
+[2024-02-27 22:52:56] [ INFO ] [OdontologoIDAOH2:27] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados2
+[2024-02-27 22:54:14] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados: 4
+[2024-02-27 22:54:48] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados: 4
+[2024-02-27 22:54:48] [ INFO ] [OdontologoIDAOH2:68] [Odontologo{id=1, matricula=1, nombre='John', apellido='Pedro'}, Odontologo{id=2, matricula=2, nombre='Maria', apellido='Sanchez'}, Odontologo{id=3, matricula=1, nombre='John', apellido='Pedro'}, Odontologo{id=4, matricula=2, nombre='Maria', apellido='Sanchez'}]
+[2024-02-27 23:00:53] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=5, matricula=1, nombre='John', apellido='Pedro'}
+[2024-02-27 23:00:53] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=6, matricula=2, nombre='Maria', apellido='Sanchez'}
+[2024-02-27 23:00:53] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=7, matricula=3, nombre='Eric', apellido='Rodriguez'}
+[2024-02-27 23:00:53] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados: 7
+[2024-02-27 23:00:53] [ INFO ] [OdontologoIDAOH2:68] [Odontologo{id=1, matricula=1, nombre='John', apellido='Pedro'}, Odontologo{id=2, matricula=2, nombre='Maria', apellido='Sanchez'}, Odontologo{id=3, matricula=1, nombre='John', apellido='Pedro'}, Odontologo{id=4, matricula=2, nombre='Maria', apellido='Sanchez'}, Odontologo{id=5, matricula=1, nombre='John', apellido='Pedro'}, Odontologo{id=6, matricula=2, nombre='Maria', apellido='Sanchez'}, Odontologo{id=7, matricula=3, nombre='Eric', apellido='Rodriguez'}]
+[2024-02-27 23:10:00] [ WARN ] [OdontologoIDAOH2:71] Algo ha salido mal.. ⚠️ 
+[2024-02-27 23:10:00] [ ERROR] [OdontologoIDAOH2:77] Error al cerrar la conexion 🤨
+[2024-02-27 23:10:15] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados: 0
+[2024-02-27 23:10:15] [ INFO ] [OdontologoIDAOH2:68] []
+[2024-02-27 23:11:06] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=1, matricula=1, nombre='John', apellido='Pedro'}
+[2024-02-27 23:11:06] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=2, matricula=2, nombre='Maria', apellido='Sanchez'}
+[2024-02-27 23:11:06] [ INFO ] [OdontologoIDAOH2:33] 👨‍⚕ Odontologo registrado: Odontologo{id=3, matricula=3, nombre='Eric', apellido='Rodriguez'}
+[2024-02-27 23:11:06] [ INFO ] [OdontologoIDAOH2:67] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados: 3
+[2024-02-27 23:11:06] [ INFO ] [OdontologoIDAOH2:68] [Odontologo{id=1, matricula=1, nombre='John', apellido='Pedro'}, Odontologo{id=2, matricula=2, nombre='Maria', apellido='Sanchez'}, Odontologo{id=3, matricula=3, nombre='Eric', apellido='Rodriguez'}]
+[2024-02-27 23:12:44] [ INFO ] [OdontologoIDAOH2:21] 👨‍⚕ Odontologo registrado: Odontologo{id=1, matricula=9, nombre='John', apellido='Pedro'}
+[2024-02-27 23:12:44] [ INFO ] [OdontologoIDAOH2:21] 👨‍⚕ Odontologo registrado: Odontologo{id=2, matricula=18, nombre='Maria', apellido='Sanchez'}
+[2024-02-27 23:12:44] [ INFO ] [OdontologoIDAOH2:21] 👨‍⚕ Odontologo registrado: Odontologo{id=3, matricula=27, nombre='Eric', apellido='Martinez'}
+[2024-02-27 23:12:44] [ INFO ] [OdontologoIDAOH2:21] 👨‍⚕ Odontologo registrado: Odontologo{id=4, matricula=4, nombre='Kamila', apellido='Rodriguez'}
+[2024-02-27 23:12:44] [ INFO ] [OdontologoIDAOH2:21] 👨‍⚕ Odontologo registrado: Odontologo{id=5, matricula=5, nombre='Lucille', apellido='Perez'}
+[2024-02-27 23:12:44] [ INFO ] [OdontologoIDAOH2:27] 👨‍⚕️🧑‍⚕️ Cantidad de odontologos registrados 5
